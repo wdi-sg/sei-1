@@ -1,6 +1,6 @@
 # Software Engineering Immersive 1 (SEI-1)
 Repository for General Assembly Software Engineering Immersive 1 (SEI 1), held from 11 March 2019 - 31 May 2019.
-\\\
+<br/><br/>
 ## Important Links
 - [Class' Slack channel](https://ga-students.slack.com/messages/CEEUKP4KH)
 - [SEI-1 Gitbook 2019](https://wdi-sg.github.io/gitbook-2019/)
