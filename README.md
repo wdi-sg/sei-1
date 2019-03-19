@@ -1,15 +1,10 @@
 # Software Engineering Immersive 1 (SEI-1)
-Repository for General Assembly Software Engineering Immersive 1 (SEI 1)
-**Date:** 11 March 2019 - 31 May 2019
-
-
-
+Repository for General Assembly Software Engineering Immersive 1 (SEI 1), held from 11 March 2019 - 31 May 2019.
+\\\
 ## Important Links
-- Class' Slack channel
-- SEI-1 Gitbook 2019
-
-
-
+- [Class' Slack channel](https://ga-students.slack.com/messages/CEEUKP4KH)
+- [SEI-1 Gitbook 2019](https://wdi-sg.github.io/gitbook-2019/)
+\\\
 ## Instructional Team
 ( Weekday Office Hours: 9am - 5pm (Offline) )
 - **Akira Wong** (Instructional Lead)
