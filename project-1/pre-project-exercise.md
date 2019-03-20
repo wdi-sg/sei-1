@@ -6,4 +6,4 @@ Concept, designs, game play ideas.
 
 ## Wireframing
 
-Make a wireframe for each page you need to fulfill the user stories.
+Make a wireframe for each interactive page.
