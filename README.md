@@ -10,33 +10,69 @@
 * Labour Day (Wednesday, 1 May 2019)
 * Vesak Day (Monday, 20 May 2019)
 
+## Instructional Team
+| Name | Title | GitHub Handle |
+| ------------- | ------------- | ------------- |
+| Akira Wong | Instructional Lead | [awongh](https://github.com/awongh) |
+| Maung Kaung Htat Win | Instructional Associate | [kauvia](https://github.com/kauvia) |
+| Liew Min Shan | Instructional Associate | [angrylobster](https://github.com/angrylobster) |
+
+### Projects
+| Name | Project 1 | Project 2 | Project 3 | Project 4 |
+| ---- | --------- | --------- | --------- | --------- |
+|[Andrew Tan](https://github.com/andrewtan2903)|||||
+|[Andy Ng](https://github.com/GeekHarp)|||||
+|[Calvin Yeap](https://github.com/calyeap)|||||
+|[Chris Eo Siang Ee](https://github.com/seeo)|||||
+|[Christian Reynoso](https://github.com/reynosoturtle)|||||
+|[Claire Seah](https://github.com/claire25es)|||||
+|[Claudia Chin](https://github.com/claucanchin)|||||
+|[Edmund Teo](https://github.com/tartufu)|||||
+|[Jia Wen Liew](https://github.com/cena999/)||
+|[Jordan Lee](https://github.com/riv23/)|||||
+|[Khairi Rusydi](https://github.com/nicoraven)|||||
+|[Lester Lim](https://github.com/melletL/)|||||
+|[Marcus Lee](https://github.com/puppypaws/)|||||
+|[Moses Lee](https://github.com/moseslee90)|||||
+|[Muhammad Daniyyal](https://github.com/Daniyyal)|||||
+|[Muhammad Hatta Yunus](https://github.com/Mudhatta)|||||
+|[Neel Augusthy](https://github.com/ViAyDiNe)|||||
+|[Sean Tan](https://github.com/seantanjs)|||||
+|[Siti Herda Nuryani](https://github.com/herda95)|||||
+|[Swee Chin Chua](https://github.com/chuasweechin)|||||
+|[Terence Siow](https://github.com/ricenzca)|||||
+|[Valenlyn Chua](https://github.com/valenlyn)|||||
+|[Vivek Thoopal](https://github.com/thoopal)|||||
+|[Wei Jun Shiow](https://github.com/showwj)|||||
+|[Yui Terai](https://github.com/Yui-Terai)|||||
+
 ### Weekly Schedule
-| section             | topic                                                |
-| ------------------- | ---------------------------------------------------- |
-| Unit 1    - Week 1  | Javascript, CSS, HTML                                |
-| Unit 1    - Week 2  | DOM, AJAX                                            |
-| Project 1 - Week 3  | Game Project                                         |
-| Unit 2    - Week 4  | ES6, Node.js, npm, Express, REST, CRUD, Disk-storage |
-| Unit 2    - Week 5  | SQL, MVC, Cookies, Authentication                    |
-| Project 2 - Week 6  | Node Express Project                                 |
-| Unit 3    - Week 7  | Ruby, RSPEC, OOP, MVC, Rails                         |
-| Unit 3    - Week 8  | Active Record, Devise, Asset Pipeline,               |
-| Project 3 - Week 9  | Ruby on Rails Group Project                          |
-| Unit 4    - Week 10 | React.js                                             |
-| Unit 4    - Week 11 | Webpack, Component Lifecycle                         |
-| Project 4 - Week 12 | Capstone Project                                     |
+| Week | Syllabus  |      Date       | topic                                                |
+|------|-----------|-----------------|----------------------------------------------------- |
+|   1  | Unit 1    | 11 Mar - 15 Mar | Javascript, CSS, HTML                                |
+|   2  | Unit 1    | 18 Mar - 22 Mar | DOM, AJAX                                            |
+|   3  | Project 1 | 25 Mar - 29 Mar | Game Project                                         |
+|   4  | Unit 2    | 1 Apr - 5 Apr   | ES6, Node.js, npm, Express, REST, CRUD, Disk-storage |
+|   5  | Unit 2    | 8 Apr - 12 Apr  | SQL, MVC, Cookies, Authentication                    |
+|   6  | Project 2 | 15 Apr - 19 Apr | Node Express Project                                 |
+|   7  | Unit 3    | 22 Apr - 26 Apr | Ruby, RSPEC, OOP, MVC, Rails                         |
+|   8  | Unit 3    | 29 Apr - 3 May  | Active Record, Devise, Asset Pipeline,               |
+|   9  | Project 3 | 6 May - 10 May  | Ruby on Rails Group Project                          |
+|  10  | Unit 4    | 13 May - 17 May | React.js                                             |
+|  11  | Unit 4    | 20 May - 24 May | Webpack, Component Lifecycle                         |
+|  12  | Project 4 | 27 May - 31 May | Capstone Project                                     |
 
 ### Daily Schedule
 
 | Time          | Activity                     |
 | ------------- | ---------------------------- |
-| 09:00 - 9:15  | Standup                      |
-| 09:15 - 9:55  | Morning Exercise             |
-| 10:00 - 10:20 | Exercise and Homework Review |
-| 10:30 - Lunch | Main Topic                   |
-| Lunch         |
-| Lunch - 02:30 | Lab / Other Topic            |
-| 03:00 onwards | Lab + Homework               |
+| 0900h - 0945h | Morning Exercise             |
+| 0945h - 1030h | Exercise and Homework Review |
+| 1030h - 1045h | Daily Standup                |
+| 1045h - 1130h | Main topic                   |
+| 1130h - 1300h | Lunch                        |                    
+| 1300h - 1500h | Main topic / Lab / Others    |
+| 1500h onwards | Lab / Homework               |
 
 
 ### Daily Exercises and Assignments
