@@ -1,6 +1,4 @@
 # Software Engineering Immersive 1 (SEI-1)
-
-## Course Scheduling
 ### Lesson Timing
 * Every Monday to Friday, 9am to 5pm, from 11 March 2019 till 31 May 2019
 
@@ -12,14 +10,36 @@
 * Labour Day (Wednesday, 1 May 2019)
 * Vesak Day (Monday, 20 May 2019)
 
-## Instructional Team
-| Name | Title | GitHub Handle |
-| ------------- | ------------- | ------------- |
-| Akira Wong | Instructional Lead | [awongh](https://github.com/awongh) |
-| Maung Kaung Htat Win | Instructional Associate | [kauvia](https://github.com/kauvia) |
-| Liew Min Shan | Instructional Associate | [angrylobster](https://github.com/angrylobster) |
+### Weekly Schedule
+| section             | topic                                                |
+| ------------------- | ---------------------------------------------------- |
+| Unit 1    - Week 1  | Javascript, CSS, HTML                                |
+| Unit 1    - Week 2  | DOM, AJAX                                            |
+| Project 1 - Week 3  | Game Project                                         |
+| Unit 2    - Week 4  | ES6, Node.js, npm, Express, REST, CRUD, Disk-storage |
+| Unit 2    - Week 5  | SQL, MVC, Cookies, Authentication                    |
+| Project 2 - Week 6  | Node Express Project                                 |
+| Unit 3    - Week 7  | Ruby, RSPEC, OOP, MVC, Rails                         |
+| Unit 3    - Week 8  | Active Record, Devise, Asset Pipeline,               |
+| Project 3 - Week 9  | Ruby on Rails Group Project                          |
+| Unit 4    - Week 10 | React.js                                             |
+| Unit 4    - Week 11 | Webpack, Component Lifecycle                         |
+| Project 4 - Week 12 | Capstone Project                                     |
 
-### Daily Lessons and Assignments
+### Daily Schedule
+
+| Time          | Activity                     |
+| ------------- | ---------------------------- |
+| 09:00 - 9:15  | Standup                      |
+| 09:15 - 9:55  | Morning Exercise             |
+| 10:00 - 10:20 | Exercise and Homework Review |
+| 10:30 - Lunch | Main Topic                   |
+| Lunch         |
+| Lunch - 02:30 | Lab / Other Topic            |
+| 03:00 onwards | Lab + Homework               |
+
+
+### Daily Exercises and Assignments
 | Date | Material | Morning Exercise | Assignment |
 |------|----------|------------------|------------|
 | 11/Mar | Command Line | NA | [Blog Simple](https://github.com/wdi-sg/blog-simple) |
@@ -28,8 +48,8 @@
 | 14/Mar | Functions, CSS Positioning | [Atbash Cipher](https://github.com/wdi-sg/atbash_cipher) | [Google Shopping Functions](https://github.com/wdi-sg/google-shopping-functions) |
 | 15/Mar | Callbacks, CSS Layout | [CSS iOS](https://github.com/wdi-sg/css-ios)  | [Choose Your Own Adventure](https://github.com/wdi-sg/choose_your_own_adventure_js) |
 | 18/Mar | Dom Manipulation, CSS Responsive Design | [Wendy Bite](https://github.com/wdi-sg/wendy-bite) | [Fellowship of the DOM](https://github.com/wdi-sg/fellowship-of-the-dom) |
-| 19/Mar | Dom Events, Flex Box | [Hippy Portfolio](https://github.com/wdi-sg/hippy-portfolio) | https://github.com/wdi-sg/tictactoe |
-| 20/Mar | Scope, Bootstrap | [CSS Airbnb](https://github.com/wdi-sg/css-airbnb) | https://github.com/wdi-sg/tictactoe |
+| 19/Mar | Dom Events, Flex Box | [Hippy Portfolio](https://github.com/wdi-sg/hippy-portfolio) | [Tic-Tac-Toe](https://github.com/wdi-sg/tictactoe) |
+| 20/Mar | Scope, Bootstrap | [CSS Airbnb](https://github.com/wdi-sg/css-airbnb) | [Tic-Tac-Toe](https://github.com/wdi-sg/tictactoe) |
 | 21/Mar | Ajax, Code Reading | [Bootstrap Airbnb](https://github.com/wdi-sg/css-airbnb-bootstrap) |   TBD     |
 
 ## Important Links
