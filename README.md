@@ -35,7 +35,7 @@
 |[Marcus Lee](https://github.com/puppypaws/)|||||
 |[Moses Lee](https://github.com/moseslee90)|||||
 |[Muhammad Daniyyal](https://github.com/Daniyyal)|||||
-|[Muhammad Hatta Yunus](https://github.com/Mudhatta)|||||
+|[Muhammad Hatta Yunus](https://github.com/Muhdhatta)|||||
 |[Neel Augusthy](https://github.com/ViAyDiNe)|||||
 |[Sean Tan](https://github.com/seantanjs)|||||
 |[Siti Herda Nuryani](https://github.com/herda95)|||||
