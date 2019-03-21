@@ -32,6 +32,21 @@ Our attendance policy for graduation is no more than 4 absences during the cours
 
 If you know you'll be late or absent, please let us know and we'll arrange to have your tardy or absence excused.
 
+### Daily Lessons and Assignments
+| Date | Material | Homework |
+|------|----------|----------|
+| 11/Mar | Command Line | https://github.com/wdi-sg/blog-simple |
+| 12/Mar | Booleans, Conditionals, Loops, Pseudocode | https://github.com/wdi-sg/temperature_converter |
+| 13/Mar | Dev Tools, Arrays, Html Box Model | https://github.com/wdi-sg/google-shopping-conditionals-loops |
+| 14/Mar | Functions, CSS Positioning | https://github.com/wdi-sg/google-shopping-functions |
+| 15/Mar | Callbacks, CSS Layout | https://github.com/wdi-sg/choose_your_own_adventure_js |
+| 18/Mar | Dom Manipulation, CSS Responsive Design | https://github.com/wdi-sg/fellowship-of-the-dom |
+| 19/Mar | Dom Events, Flex Box | https://github.com/wdi-sg/tictactoe |
+| 20/Mar | Scope, Bootstrap | https://github.com/wdi-sg/tictactoe |
+| 21/Mar | Ajax, Code Reading |   TBD     |
+|
+
+
 ### Practice Work and Projects
 **Homework:** Pull requests have to be submitted by 9am the next day regardless of completion status.
 
