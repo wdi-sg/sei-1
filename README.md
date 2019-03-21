@@ -10,14 +10,14 @@
 * Labour Day (Wednesday, 1 May 2019)
 * Vesak Day (Monday, 20 May 2019)
 
-## Instructional Team
+### Instructional Team
 | Name | Title | GitHub Handle |
 | ------------- | ------------- | ------------- |
 | Akira Wong | Instructional Lead | [awongh](https://github.com/awongh) |
 | Maung Kaung Htat Win | Instructional Associate | [kauvia](https://github.com/kauvia) |
 | Liew Min Shan | Instructional Associate | [angrylobster](https://github.com/angrylobster) |
 
-### Projects
+### Class Repositories and Projects
 | Name | Project 1 | Project 2 | Project 3 | Project 4 |
 | ---- | --------- | --------- | --------- | --------- |
 |[Andrew Tan](https://github.com/andrewtan2903)|||||
