@@ -86,7 +86,7 @@
 | 18/Mar | Dom Manipulation, CSS Responsive Design | [Wendy Bite](https://github.com/wdi-sg/wendy-bite) | [Fellowship of the DOM](https://github.com/wdi-sg/fellowship-of-the-dom) |
 | 19/Mar | Dom Events, Flex Box | [Hippy Portfolio](https://github.com/wdi-sg/hippy-portfolio) | [Tic-Tac-Toe](https://github.com/wdi-sg/tictactoe) |
 | 20/Mar | Scope, Bootstrap | [CSS Airbnb](https://github.com/wdi-sg/css-airbnb) | [Tic-Tac-Toe](https://github.com/wdi-sg/tictactoe) |
-| 21/Mar | Ajax, Code Reading | [Bootstrap Airbnb](https://github.com/wdi-sg/css-airbnb-bootstrap) |   TBD     |
+| 21/Mar | Ajax, Code Reading | [Bootstrap Airbnb](https://github.com/wdi-sg/css-airbnb-bootstrap) | [TV Browser](https://github.com/wdi-sg/tv-browser) |
 
 ## Important Links
 * [Class' Slack channel](https://ga-students.slack.com/messages/CEEUKP4KH)
