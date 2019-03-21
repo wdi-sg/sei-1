@@ -1,12 +1,13 @@
 # Software Engineering Immersive 1 (SEI-1)
 
-## Course Schedule
-11 March 2019 - 31 May 2019
+## Course Scheduling
+### Lesson Timing
+* Every Monday to Friday, 9am to 5pm, from 11 March 2019 till 31 May 2019
 
-Key Events:
+### Key Events
 * TBD
 
-Holidays: 
+### Holidays
 * Good Friday (Friday, 19 April 2019)
 * Labour Day (Wednesday, 1 May 2019)
 * Vesak Day (Monday, 20 May 2019)
@@ -21,16 +22,15 @@ Holidays:
 ### Daily Lessons and Assignments
 | Date | Material | Morning Exercise | Assignment |
 |------|----------|------------------|------------|
-| 11/Mar | Command Line | [Command Line Murder Mystery](https://github.com/wdi-sg/command-line-murder-mystery) | [blog-simple](https://github.com/wdi-sg/blog-simple) |
-| 12/Mar | Booleans, Conditionals, Loops, Pseudocode |  | https://github.com/wdi-sg/temperature_converter |
-| 13/Mar | Dev Tools, Arrays, Html Box Model |  | https://github.com/wdi-sg/google-shopping-conditionals-loops |
-| 14/Mar | Functions, CSS Positioning |  | https://github.com/wdi-sg/google-shopping-functions |
-| 15/Mar | Callbacks, CSS Layout |  | https://github.com/wdi-sg/choose_your_own_adventure_js |
-| 18/Mar | Dom Manipulation, CSS Responsive Design |  | https://github.com/wdi-sg/fellowship-of-the-dom |
-| 19/Mar | Dom Events, Flex Box |  | https://github.com/wdi-sg/tictactoe |
-| 20/Mar | Scope, Bootstrap |  | https://github.com/wdi-sg/tictactoe |
-| 21/Mar | Ajax, Code Reading |  |   TBD     |
-|
+| 11/Mar | Command Line | NA | [Blog Simple](https://github.com/wdi-sg/blog-simple) |
+| 12/Mar | Booleans, Conditionals, Loops, Pseudocode | [Command Line Murder Mystery](https://github.com/wdi-sg/command-line-murder-mystery) | [Temperature Converter](https://github.com/wdi-sg/temperature_converter) |
+| 13/Mar | Dev Tools, Arrays, Html Box Model | [Morse Code](https://github.com/wdi-sg/morse-code/) | [Google Shopping Conditionals Loops](https://github.com/wdi-sg/google-shopping-conditionals-loops) |
+| 14/Mar | Functions, CSS Positioning | [Atbash Cipher](https://github.com/wdi-sg/atbash_cipher) | [Google Shopping Functions](https://github.com/wdi-sg/google-shopping-functions) |
+| 15/Mar | Callbacks, CSS Layout | [CSS iOS](https://github.com/wdi-sg/css-ios)  | [Choose Your Own Adventure](https://github.com/wdi-sg/choose_your_own_adventure_js) |
+| 18/Mar | Dom Manipulation, CSS Responsive Design | [Wendy Bite](https://github.com/wdi-sg/wendy-bite) | [Fellowship of the DOM](https://github.com/wdi-sg/fellowship-of-the-dom) |
+| 19/Mar | Dom Events, Flex Box | [Hippy Portfolio](https://github.com/wdi-sg/hippy-portfolio) | https://github.com/wdi-sg/tictactoe |
+| 20/Mar | Scope, Bootstrap | [CSS Airbnb](https://github.com/wdi-sg/css-airbnb) | https://github.com/wdi-sg/tictactoe |
+| 21/Mar | Ajax, Code Reading | [Bootstrap Airbnb](https://github.com/wdi-sg/css-airbnb-bootstrap) |   TBD     |
 
 ## Important Links
 * [Class' Slack channel](https://ga-students.slack.com/messages/CEEUKP4KH)
