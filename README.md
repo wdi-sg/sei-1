@@ -47,7 +47,7 @@
 |[Yui Terai](https://github.com/Yui-Terai)|||||
 
 ### Weekly Schedule
-| Week | Syllabus  |      Date       | topic                                                |
+| Week |   Unit    |      Date       | Topic                                                |
 |------|-----------|-----------------|----------------------------------------------------- |
 |   1  | Unit 1    | 11 Mar - 15 Mar | Javascript, CSS, HTML                                |
 |   2  | Unit 1    | 18 Mar - 22 Mar | DOM, AJAX                                            |
