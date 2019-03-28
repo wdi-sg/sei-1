@@ -20,25 +20,25 @@
 ### Class Repositories and Projects
 | Name | Project 1 | Project 2 | Project 3 | Project 4 |
 | ---- | --------- | --------- | --------- | --------- |
-|[Andrew Tan](https://github.com/andrewtan2903)|||||
+|[Andrew Tan](https://github.com/andrewtan2903)|[Synthesize Your Life](https://andrewtan2903.github.io/Project-One/)||||
 |[Andy Ng](https://github.com/GeekHarp)|||||
 |[Calvin Yeap](https://github.com/calyeap)|||||
 |[Chris Eo Siang Ee](https://github.com/seeo)|||||
 |[Christian Reynoso](https://github.com/reynosoturtle)|[Reyno's Party](https://github.com/reynosoturtle/game-project)||||
 |[Claire Seah](https://github.com/claire25es)|[Final Frontier](https://github.com/claire25es/sei-1)||||
-|[Claudia Chin](https://github.com/claucanchin)|||||
+|[Claudia Chin](https://github.com/claucanchin)|[Simon](https://github.com/claucanchin/simon)||||
 |[Edmund Teo](https://github.com/tartufu)|[Dungeon Draw](https://github.com/tartufu/unit1-project-dungeon-draw)||||
-|[Jia Wen Liew](https://github.com/cena999/)||
+|[Jia Wen Liew](https://github.com/cena999/)|[Typing Game](https://github.com/cena999/Typing-Game)|
 |[Jordan Lee](https://github.com/riv23/)|||||
-|[Khairi Rusydi](https://github.com/nicoraven)|||||
-|[Lester Lim](https://github.com/melletL/)|||||
+|[Khairi Rusydi](https://github.com/nicoraven)|[Simon Says](https://nicoraven.github.io/simon-says/)||||
+|[Lester Lim](https://github.com/melletL/)|[Burger Bash](https://melletl.github.io/Burger-Bash/)||||
 |[Marcus Lee](https://github.com/puppypaws/)|||||
 |[Moses Lee](https://github.com/moseslee90)|||||
 |[Muhammad Daniyyal](https://github.com/Daniyyal)|||||
 |[Muhammad Hatta Yunus](https://github.com/Muhdhatta)|||||
 |[Neel Augusthy](https://github.com/ViAyDiNe)|||||
 |[Sean Tan](https://github.com/seantanjs)|||||
-|[Siti Herda Nuryani](https://github.com/herda95)|||||
+|[Siti Herda Nuryani](https://github.com/helloimhd)|||||
 |[Swee Chin Chua](https://github.com/chuasweechin)|[Chinese Chess](https://github.com/chuasweechin/chinese-chess)||||
 |[Terence Siow](https://github.com/ricenzca)|||||
 |[Valenlyn Chua](https://github.com/valenlyn)|[Whack-a-Mole](https://github.com/valenlyn/Whack-a-Mole)||||
