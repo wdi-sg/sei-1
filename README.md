@@ -21,30 +21,30 @@
 | Name | Project 1 | Project 2 | Project 3 | Project 4 |
 | ---- | --------- | --------- | --------- | --------- |
 |[Andrew Tan](https://github.com/andrewtan2903)|[Synthesize Your Life](https://andrewtan2903.github.io/Project-One/)||||
-|[Andy Ng](https://github.com/GeekHarp)|||||
-|[Calvin Yeap](https://github.com/calyeap)|||||
-|[Chris Eo Siang Ee](https://github.com/seeo)|||||
+|[Andy Ng](https://github.com/GeekHarp)|[Guesser of Words](https://geekharp.github.io/word-guessing-game/)||||
+|[Calvin Yeap](https://github.com/calyeap)|[snek](https://github.com/calyeap/project1)||||
+|[Chris Eo Siang Ee](https://github.com/seeo)|[Connect 4](https://seeo.github.io/connect-4/)||||
 |[Christian Reynoso](https://github.com/reynosoturtle)|[Reyno's Party](https://github.com/reynosoturtle/game-project)||||
 |[Claire Seah](https://github.com/claire25es)|[Final Frontier](https://github.com/claire25es/sei-1)||||
 |[Claudia Chin](https://github.com/claucanchin)|[Simon](https://github.com/claucanchin/simon)||||
 |[Edmund Teo](https://github.com/tartufu)|[Dungeon Draw](https://github.com/tartufu/unit1-project-dungeon-draw)||||
 |[Jia Wen Liew](https://github.com/cena999/)|[Typing Game](https://github.com/cena999/Typing-Game)|
-|[Jordan Lee](https://github.com/riv23/)|||||
+|[Jordan Lee](https://github.com/riv23/)|[Jack Black](https://github.com/riv23/project1)||||
 |[Khairi Rusydi](https://github.com/nicoraven)|[Simon Says](https://nicoraven.github.io/simon-says/)||||
 |[Lester Lim](https://github.com/melletL/)|[Burger Bash](https://melletl.github.io/Burger-Bash/)||||
-|[Marcus Lee](https://github.com/puppypaws/)|||||
-|[Moses Lee](https://github.com/moseslee90)|||||
-|[Muhammad Daniyyal](https://github.com/Daniyyal)|||||
-|[Muhammad Hatta Yunus](https://github.com/Muhdhatta)|||||
-|[Neel Augusthy](https://github.com/ViAyDiNe)|||||
-|[Sean Tan](https://github.com/seantanjs)|||||
-|[Siti Herda Nuryani](https://github.com/helloimhd)|||||
+|[Marcus Lee](https://github.com/puppypaws/)|[Drib Yppalf](https://puppypaws.github.io/dribyppalf/game.html)||||
+|[Moses Lee](https://github.com/moseslee90)|[Tetris](https://moseslee90.github.io/tetris/)||||
+|[Muhammad Daniyyal](https://github.com/Daniyyal)|[Breakout](https://daniyyal.github.io/project1/)||||
+|[Muhammad Hatta Yunus](https://github.com/Muhdhatta)|[Tetris 2.0](https://github.com/Muhdhatta/TetrisVer2.0)||||
+|[Neel Augusthy](https://github.com/ViAyDiNe)|[Tetris](https://github.com/ViAyDiNe/Neel-Project01)||||
+|[Sean Tan](https://github.com/seantanjs)|[Amnesia](https://github.com/seantanjs/project-1)||||
+|[Siti Herda Nuryani](https://github.com/helloimhd)|[Munch](https://helloimhd.github.io/munch/)||||
 |[Swee Chin Chua](https://github.com/chuasweechin)|[Chinese Chess](https://github.com/chuasweechin/chinese-chess)||||
-|[Terence Siow](https://github.com/ricenzca)|||||
+|[Terence Siow](https://github.com/ricenzca)|[PiNkY AnD brAiN](https://github.com/ricenzca/typing-game)||||
 |[Valenlyn Chua](https://github.com/valenlyn)|[Whack-a-Mole](https://github.com/valenlyn/Whack-a-Mole)||||
-|[Vivek Thoopal](https://github.com/thoopal)|||||
+|[Vivek Thoopal](https://github.com/thoopal)|[Archery](https://github.com/thoopal/project1)||||
 |[Wei Jun Shiow](https://github.com/showwj)|[Bomberman](https://github.com/shiowwj/Another_psuedo-bomberman-)||||
-|[Yui Terai](https://github.com/Yui-Terai)|||||
+|[Yui Terai](https://github.com/Yui-Terai)|[Game of Match](https://yui-terai.github.io/matching-game/)||||
 
 ### Weekly Schedule
 | Week |   Unit    |      Date       | Topic                                                |
