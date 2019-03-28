@@ -24,10 +24,10 @@
 |[Andy Ng](https://github.com/GeekHarp)|||||
 |[Calvin Yeap](https://github.com/calyeap)|||||
 |[Chris Eo Siang Ee](https://github.com/seeo)|||||
-|[Christian Reynoso](https://github.com/reynosoturtle)|||||
-|[Claire Seah](https://github.com/claire25es)|||||
+|[Christian Reynoso](https://github.com/reynosoturtle)|[Reyno's Party](https://github.com/reynosoturtle/game-project)||||
+|[Claire Seah](https://github.com/claire25es)|[Final Frontier](https://github.com/claire25es/sei-1)||||
 |[Claudia Chin](https://github.com/claucanchin)|||||
-|[Edmund Teo](https://github.com/tartufu)|||||
+|[Edmund Teo](https://github.com/tartufu)|[Dungeon Draw](https://github.com/tartufu/unit1-project-dungeon-draw)||||
 |[Jia Wen Liew](https://github.com/cena999/)||
 |[Jordan Lee](https://github.com/riv23/)|||||
 |[Khairi Rusydi](https://github.com/nicoraven)|||||
@@ -39,9 +39,9 @@
 |[Neel Augusthy](https://github.com/ViAyDiNe)|||||
 |[Sean Tan](https://github.com/seantanjs)|||||
 |[Siti Herda Nuryani](https://github.com/herda95)|||||
-|[Swee Chin Chua](https://github.com/chuasweechin)|||||
+|[Swee Chin Chua](https://github.com/chuasweechin)|[Chinese Chess](https://github.com/chuasweechin/chinese-chess)||||
 |[Terence Siow](https://github.com/ricenzca)|||||
-|[Valenlyn Chua](https://github.com/valenlyn)|||||
+|[Valenlyn Chua](https://github.com/valenlyn)|[Whack-a-Mole](https://github.com/valenlyn/Whack-a-Mole)||||
 |[Vivek Thoopal](https://github.com/thoopal)|||||
 |[Wei Jun Shiow](https://github.com/showwj)|[Bomberman](https://github.com/shiowwj/Another_psuedo-bomberman-)||||
 |[Yui Terai](https://github.com/Yui-Terai)|||||
