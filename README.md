@@ -1,4 +1,4 @@
-# Sexy Hot Pot
+# Sexy Hot Pots
 ### Lesson Timing
 * Every Monday to Friday, 9am to 5pm, from 11 March 2019 till 31 May 2019
 
