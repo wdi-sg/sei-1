@@ -43,7 +43,7 @@
 |[Terence Siow](https://github.com/ricenzca)|||||
 |[Valenlyn Chua](https://github.com/valenlyn)|||||
 |[Vivek Thoopal](https://github.com/thoopal)|||||
-|[Wei Jun Shiow](https://github.com/showwj)|||||
+|[Wei Jun Shiow](https://github.com/showwj)|[Bomberman](https://github.com/shiowwj/Another_psuedo-bomberman-)||||
 |[Yui Terai](https://github.com/Yui-Terai)|||||
 
 ### Weekly Schedule
