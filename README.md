@@ -88,7 +88,7 @@
 | 20/Mar | Scope, Bootstrap | [CSS Airbnb](https://github.com/wdi-sg/css-airbnb) | [Tic-Tac-Toe](https://github.com/wdi-sg/tictactoe) |
 | 21/Mar | Ajax, Code Reading | [Bootstrap Airbnb](https://github.com/wdi-sg/css-airbnb-bootstrap) | [TV Browser](https://github.com/wdi-sg/tv-browser) |
 | 22-28 Mar | WEEK | OF | PROJECTS |
-| 29/Mar | Node.js and CLI | [CSS Positioning] (https://github.com/claucanchin/css-positioning) | [CLI Todo] (https://github.com/wdi-sg/cli-todo) |
+| 29/Mar | Node.js and CLI | [CSS Positioning](https://github.com/claucanchin/css-positioning) | [CLI Todo](https://github.com/wdi-sg/cli-todo) |
 
 ## Important Links
 * [Class' Slack channel](https://ga-students.slack.com/messages/CEEUKP4KH)
