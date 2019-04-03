@@ -89,6 +89,9 @@
 | 21/Mar | Ajax, Code Reading | [Bootstrap Airbnb](https://github.com/wdi-sg/css-airbnb-bootstrap) | [TV Browser](https://github.com/wdi-sg/tv-browser) |
 | 22-28 Mar | WEEK | OF | PROJECTS |
 | 29/Mar | Node.js and CLI | [CSS Positioning](https://github.com/claucanchin/css-positioning) | [CLI Todo](https://github.com/wdi-sg/cli-todo) |
+| 1/Apr | Internets & GET| [Pokedex CSS](https://github.com/wdi-sg/pokedex-css) | [Pokedex Express] (https://github.com/wdi-sg/pokedex-express) |
+| 2/Apr | CRUD & POST | [Fibbonacci](https://github.com/wdi-sg/fibonacci-numbers) | [Pokedex Express Post] (https://github.com/wdi-sg/pokedex-express-post) |
+| 3/Apr | PUT & React | [Vegetables](https://github.com/wdi-sg/vegetables) | |
 
 ## Important Links
 * [Class' Slack channel](https://ga-students.slack.com/messages/CEEUKP4KH)
