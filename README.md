@@ -91,7 +91,9 @@
 | 29/Mar | Node.js and CLI | [CSS Positioning](https://github.com/claucanchin/css-positioning) | [CLI Todo](https://github.com/wdi-sg/cli-todo) |
 | 1/Apr | Internets & GET| [Pokedex CSS](https://github.com/wdi-sg/pokedex-css) | [Pokedex Express](https://github.com/wdi-sg/pokedex-express) |
 | 2/Apr | CRUD & POST | [Fibbonacci](https://github.com/wdi-sg/fibonacci-numbers) | [Pokedex Express Post](https://github.com/wdi-sg/pokedex-express-post) |
-| 3/Apr | PUT & React | [Vegetables](https://github.com/wdi-sg/vegetables) | |
+| 3/Apr | PUT & React | [Vegetables](https://github.com/wdi-sg/vegetables) | [Pokedex Express Post](https://github.com/wdi-sg/pokedex-express-post/blob/master/part-2.md) |
+| 4/Apr | React Components | [Fashion Blog](https://github.com/wdi-sg/fashion-blog) | [Pokedex Express Post](https://github.com/wdi-sg/pokedex-express-post/blob/master/part-2.md) |
+| 5/Apr | Object Orientated Programming | [Hyrule Potions](https://github.com/wdi-sg/hyrule_potion_shop) | TBA |
 
 ## Important Links
 * [Class' Slack channel](https://ga-students.slack.com/messages/CEEUKP4KH)
