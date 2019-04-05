@@ -25,7 +25,7 @@
 |[Calvin Yeap](https://github.com/calyeap)|[snek](https://github.com/calyeap/project1)||||
 |[Chris Eo Siang Ee](https://github.com/seeo)|[Connect 4](https://seeo.github.io/connect-4/)||||
 |[Christian Reynoso](https://github.com/reynosoturtle)|[Reyno's Party](https://github.com/reynosoturtle/game-project)||||
-|[Claire Seah](https://github.com/claire25es)|[Final Frontier](https://github.com/claire25es/sei-1)||||
+|[Claire Seah](https://github.com/monclairee)|[Final Frontier](https://github.com/claire25es/sei-1)||||
 |[Claudia Chin](https://github.com/claucanchin)|[Simon](https://github.com/claucanchin/simon)||||
 |[Edmund Teo](https://github.com/tartufu)|[Dungeon Draw](https://github.com/tartufu/unit1-project-dungeon-draw)||||
 |[Jia Wen Liew](https://github.com/cena999/)|[Typing Game](https://github.com/cena999/Typing-Game)|
