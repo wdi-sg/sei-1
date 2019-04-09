@@ -43,7 +43,7 @@
 |[Terence Siow](https://github.com/ricenzca)|[PiNkY AnD brAiN](https://github.com/ricenzca/typing-game)||||
 |[Valenlyn Chua](https://github.com/valenlyn)|[Whack-a-Mole](https://github.com/valenlyn/Whack-a-Mole)||||
 |[Vivek Thoopal](https://github.com/thoopal)|[Archery](https://github.com/thoopal/project1)||||
-|[Wei Jun Shiow](https://github.com/showwj)|[Bomberman](https://github.com/shiowwj/Another_psuedo-bomberman-)||||
+|[Wei Jun Shiow](https://github.com/shiowwj)|[Bomberman](https://github.com/shiowwj/Another_psuedo-bomberman-)||||
 |[Yui Terai](https://github.com/Yui-Terai)|[Game of Match](https://yui-terai.github.io/matching-game/)||||
 
 ### Weekly Schedule
