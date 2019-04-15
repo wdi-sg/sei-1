@@ -93,7 +93,13 @@
 | 2/Apr | CRUD & POST | [Fibbonacci](https://github.com/wdi-sg/fibonacci-numbers) | [Pokedex Express Post](https://github.com/wdi-sg/pokedex-express-post) |
 | 3/Apr | PUT & React | [Vegetables](https://github.com/wdi-sg/vegetables) | [Pokedex Express Post](https://github.com/wdi-sg/pokedex-express-post/blob/master/part-2.md) |
 | 4/Apr | React Components | [Fashion Blog](https://github.com/wdi-sg/fashion-blog) | [Pokedex Express Post](https://github.com/wdi-sg/pokedex-express-post/blob/master/part-2.md) |
-| 5/Apr | Object Orientated Programming | [Hyrule Potions](https://github.com/wdi-sg/hyrule_potion_shop) | TBA |
+| 5/Apr | Object Orientated Programming | [Hyrule Potions](https://github.com/wdi-sg/hyrule_potion_shop) | [Recipe Keeper](https://github.com/wdi-sg/recipe-keeper)|
+| 8/Apr | Postgres Basics | Algorithms (Recursions) | [Postgres CLI Todo](https://github.com/wdi-sg/cli-todo-sql)|
+| 9/Apr | CRUD Postgres | Algorithms (Recursions) | [Tunr Express](https://github.com/wdi-sg/tunr_express)|
+| 10/Apr | Many-to Many & ERD | Basic Sorting Algos 1st Half | [Tunr Express Part Dos](https://github.com/wdi-sg/tunr_express)|
+| 11/Apr | Password Authentication & Hashing | Basic Sorting Algos 2nd Half | [Tunr Express Partie Trois](https://github.com/wdi-sg/tunr_express)|
+| 12/Apr | MVC | Merge Sort | [Tweedr MVC](https://github.com/wdi-sg/mvc-tweedr)|
+| 15/Apr | A.J.A.X & agile | Q U i C K S O R T | TBA |
 
 ## Important Links
 * [Class' Slack channel](https://ga-students.slack.com/messages/CEEUKP4KH)
