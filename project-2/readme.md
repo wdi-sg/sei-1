@@ -93,8 +93,6 @@ The project is meant to demonstrate that everyone is minimally capable of __appl
 
 Given __Bloom's Taxonomy__, everyone should be able to apply their knowledge of Node.js, CRUD and PostgreSQL. Students must remember enough of the concepts to to understand how to apply their knowledge / build this project.
 
-Everyone is expected to be able to articulate how their app and code works.
-
 ![https://cft.vanderbilt.edu/wp-content/uploads/sites/59/Blooms-Taxonomy-650x366.jpg](https://cft.vanderbilt.edu/wp-content/uploads/sites/59/Blooms-Taxonomy-650x366.jpg)
 
 ##### Plagiarism
