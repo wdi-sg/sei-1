@@ -19,6 +19,7 @@ This second project is your first foray into **building a full-stack application
 * **Make a SELECT or INSERT query** to the PostgreSQL database on at least 1 route
 
 ### Extras
+* **MVC
 * **Include sign up/log in functionality** with hashed passwords & an authorization flow
 * **Incorporate a CSS Framework** like Bootstrap for styling
 * **Include API endpoints in your application**, i.e. have some /api/ name-spaced routes that return JSON data
@@ -96,4 +97,8 @@ Everyone is expected to be able to articulate how their app and code works.
 
 ![https://cft.vanderbilt.edu/wp-content/uploads/sites/59/Blooms-Taxonomy-650x366.jpg](https://cft.vanderbilt.edu/wp-content/uploads/sites/59/Blooms-Taxonomy-650x366.jpg)
 
+##### Plagiarism
+Simply put, plagiarism involves both stealing someone else's work or idea and lying about it afterward; an act of cheating. Plagiarized work includes turning in code that you didn’t write or building someone else’s idea without giving credit.
+
+Students are encouraged and expected to use code that was not written by them. If the code in the central part of their app was not written by them they are expected to understand the way it works thoroughly.
 
